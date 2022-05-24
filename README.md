@@ -9,5 +9,8 @@ And also all the icons adopted from font awesome website
 
 font adopted from google fonts.
 
+Also you can view the website by clicking below link
+https://tindog-dogs.netlify.app
+
 Thanks,
 Umesh Bhatiya
