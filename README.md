@@ -12,5 +12,7 @@ font adopted from google fonts.
 Also you can view the website by clicking below link
 https://tindog-dogs.netlify.app
 
+for better experience please view it on both laptop and desktop.
+
 Thanks,
 Umesh Bhatiya
