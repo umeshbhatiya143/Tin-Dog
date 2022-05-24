@@ -7,7 +7,7 @@ body{
     color: white;
 }
 .container-fluid{
-    padding: 3% 15%;
+    padding: 3% 15% 7%;
 }
 h1{  
     font-family: 'Montserrat';
@@ -43,14 +43,20 @@ h1{
 
 /* tittle Image */
 .tittle-image{
-    width: 60%;
+    width: 20%;
     transform: rotate(25deg);
+    position: absolute;
+    right: 30%;
+    
 }
 
 /* features section*/
 
 #features{
     padding: 7% 15%;
+    background: white;
+    position:relative;
+   
 }
 
 h3{
@@ -133,4 +139,42 @@ h2{
 
   .feature-box {
     padding: 4.5%;
+  }
+
+  /* cta section */
+
+  #cta{
+      background-color: #ff4c68;
+      padding: 7% 15%;
+      text-align: center;
+      color: #fff;
+      
+  }
+  .cta-fonts{
+      font-size: 3.5rem;
+      line-height: 1.5;
+  }
+
+  /* footer */
+  
+  #footer{
+     padding: 7% 15%;
+     text-align: center;
+  }
+  .footer-icons{
+      margin: 20px 10px;
+      color: gray;
+  }
+
+  @media (max-width:1270px) {
+
+    #title{
+        text-align: center;
+    }
+      .tittle-image{
+          position: static;
+          transform: rotate(0);
+          width: 60%;
+      }
+      
   }
