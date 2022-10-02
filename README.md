@@ -9,10 +9,12 @@ And also all the icons adopted from font awesome website
 
 font adopted from google fonts.
 
+
 Also you can view the website by clicking below link
 https://tindog-dogs.netlify.app
 
+
 for better experience please view it on both laptop and desktop.
 
-Thanks,
+Thanks you,
 Umesh Bhatiya
